@@ -1,1 +1,1 @@
-# COH
+# Card's official handbook
